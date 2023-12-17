@@ -1,0 +1,16 @@
+package excelr;
+
+public class HelloWorld 
+{
+	int id;
+	String name;
+	int age;
+	double salary;
+	boolean status;
+	
+ public static void main(String[] args)
+{
+	System.out.println("hello World!");
+}
+ 
+}
